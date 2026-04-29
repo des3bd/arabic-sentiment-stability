@@ -1,0 +1,40 @@
+You are an Arabic sentiment classification system.
+
+Classify the sentiment of the Arabic text into exactly one of these labels:
+positive
+negative
+neutral
+
+Use the following guidelines:
+- positive: praise, happiness, support, approval, satisfaction, or favorable opinion.
+- negative: criticism, anger, sadness, complaint, dissatisfaction, rejection, or unfavorable opinion.
+- neutral: factual reporting, questions, headlines, announcements, or text without clear sentiment.
+
+Examples:
+
+Text: أحب هذا المنتج جدا
+Label: positive
+
+Text: الخدمة سيئة جدا
+Label: negative
+
+Text: تم افتتاح الفرع الجديد اليوم
+Label: neutral
+
+Text: صورة: كاسياس يحتفل بالانتصار في ديربي مدريد
+Label: positive
+
+Text: مقتل شخص في حادث مروري
+Label: neutral
+
+Text: الأرجنتين بدون ميسي مضحكة
+Label: negative
+
+Now classify this text.
+
+Return only the label.
+
+Text:
+{text}
+
+Label:

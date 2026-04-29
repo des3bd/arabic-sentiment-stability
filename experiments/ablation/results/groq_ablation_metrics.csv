@@ -1,0 +1,3 @@
+﻿configuration,n_total,n_valid_pairs,original_accuracy,paraphrase_accuracy,original_macro_f1,paraphrase_macro_f1,consistency_rate,flip_rate,invalid_original,invalid_paraphrase
+few-shot,150,150,0.7333,0.7333,0.7315,0.7321,0.9,0.1,0,0
+zero-shot,150,150,0.7333,0.7333,0.7296,0.7276,0.8533,0.1467,0,0

@@ -1,0 +1,17 @@
+﻿model,error_category,count,percentage_within_model
+AraBERT-ArSAS,dialect_slang_ambiguity,9,28.12
+AraBERT-ArSAS,entity_topic_bias,1,3.12
+AraBERT-ArSAS,neutral_news_confusion,12,37.5
+AraBERT-ArSAS,paraphrase_clarified_sentiment,3,9.38
+AraBERT-ArSAS,sarcasm_irony_ambiguity,5,15.62
+AraBERT-ArSAS,short_text_or_context_loss,2,6.25
+GPT-OSS-20B via Groq,dialect_slang_ambiguity,6,27.27
+GPT-OSS-20B via Groq,neutral_news_confusion,9,40.91
+GPT-OSS-20B via Groq,paraphrase_clarified_sentiment,2,9.09
+GPT-OSS-20B via Groq,sarcasm_irony_ambiguity,5,22.73
+Gemini 2.5 Flash,dialect_slang_ambiguity,2,14.29
+Gemini 2.5 Flash,gold_label_or_context_ambiguity,1,7.14
+Gemini 2.5 Flash,neutral_news_confusion,6,42.86
+Gemini 2.5 Flash,paraphrase_clarified_sentiment,1,7.14
+Gemini 2.5 Flash,paraphrase_sentiment_shift,1,7.14
+Gemini 2.5 Flash,sarcasm_irony_ambiguity,3,21.43

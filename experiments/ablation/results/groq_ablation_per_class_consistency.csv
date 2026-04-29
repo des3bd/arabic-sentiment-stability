@@ -1,0 +1,7 @@
+﻿configuration,gold_label,n,consistent_count,flip_count,consistency_rate,flip_rate
+few-shot,negative,50,44,6,0.88,0.12
+few-shot,neutral,50,46,4,0.92,0.08
+few-shot,positive,50,45,5,0.9,0.1
+zero-shot,negative,50,42,8,0.84,0.16
+zero-shot,neutral,50,42,8,0.84,0.16
+zero-shot,positive,50,44,6,0.88,0.12

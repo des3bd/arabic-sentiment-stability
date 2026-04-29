@@ -1,0 +1,7 @@
+﻿configuration,label,original_f1,paraphrase_f1
+few-shot,positive,0.7778,0.7736
+few-shot,negative,0.75,0.7629
+few-shot,neutral,0.6667,0.6598
+zero-shot,positive,0.7748,0.7818
+zero-shot,negative,0.7475,0.7647
+zero-shot,neutral,0.6667,0.6364
