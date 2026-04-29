@@ -1,0 +1,13 @@
+You are an Arabic NLP assistant.
+
+Paraphrase the following Arabic tweet while preserving its original meaning and sentiment.
+
+Rules:
+- Keep the same sentiment.
+- Keep the same dialect as much as possible.
+- Do not add new information.
+- Do not remove important emotional meaning.
+- Return only the paraphrased Arabic text.
+
+Tweet:
+{text}

@@ -1,0 +1,16 @@
+﻿model,dialect,n,consistent_count,flip_count,consistency_rate,flip_rate
+AraBERT-ArSAS,egypt,21,14,7,0.6667,0.3333
+AraBERT-ArSAS,gulf,7,6,1,0.8571,0.1429
+AraBERT-ArSAS,levant,3,2,1,0.6667,0.3333
+AraBERT-ArSAS,msa,61,46,15,0.7541,0.2459
+AraBERT-ArSAS,unknown,57,49,8,0.8596,0.1404
+GPT-OSS-20B via Groq,egypt,21,17,4,0.8095,0.1905
+GPT-OSS-20B via Groq,gulf,7,4,3,0.5714,0.4286
+GPT-OSS-20B via Groq,levant,3,2,1,0.6667,0.3333
+GPT-OSS-20B via Groq,msa,62,54,8,0.871,0.129
+GPT-OSS-20B via Groq,unknown,57,51,6,0.8947,0.1053
+Gemini 2.5 Flash,egypt,21,18,3,0.8571,0.1429
+Gemini 2.5 Flash,gulf,7,7,0,1.0,0.0
+Gemini 2.5 Flash,levant,3,3,0,1.0,0.0
+Gemini 2.5 Flash,msa,62,57,5,0.9194,0.0806
+Gemini 2.5 Flash,unknown,57,51,6,0.8947,0.1053

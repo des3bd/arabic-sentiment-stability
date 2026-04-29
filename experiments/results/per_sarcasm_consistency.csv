@@ -1,0 +1,10 @@
+﻿model,sarcasm,n,consistent_count,flip_count,consistency_rate,flip_rate
+AraBERT-ArSAS,False,77,56,21,0.7273,0.2727
+AraBERT-ArSAS,True,15,12,3,0.8,0.2
+AraBERT-ArSAS,unknown,57,49,8,0.8596,0.1404
+GPT-OSS-20B via Groq,False,77,65,12,0.8442,0.1558
+GPT-OSS-20B via Groq,True,16,12,4,0.75,0.25
+GPT-OSS-20B via Groq,unknown,57,51,6,0.8947,0.1053
+Gemini 2.5 Flash,False,77,70,7,0.9091,0.0909
+Gemini 2.5 Flash,True,16,15,1,0.9375,0.0625
+Gemini 2.5 Flash,unknown,57,51,6,0.8947,0.1053

@@ -1,0 +1,11 @@
+You are an Arabic sentiment classification system.
+
+Classify the sentiment of the following Arabic text into exactly one of these labels:
+positive
+negative
+neutral
+
+Return only the label.
+
+Text:
+{text}

@@ -1,0 +1,151 @@
+﻿id,text,sentiment_original,sentiment_unified,dataset,dialect,sarcasm,source,split
+SENT_020165,2008 الشرطة التركية اليوم تفرق المظاهرات ضد اردوغان بالقوة بينما يندد هو بفض اعتصامات رابعة,negative,negative,ArSarcasm,msa,True,astd,test
+SENT_006115,خطاب مرسي بداية جيدة نتمنى ان يكون ذلك بداية لتوحيد الصفوف ضد العسكر,POS,positive,ASTD,unknown,unknown,ASTD,full
+SENT_018655,#موسكو ستطلب من #الناتو ردودا بناءة#اسأل_أكثرhttps://t.co/sf4YPWnbKB https://t.co/oKndG3ucgI,neutral,neutral,ArSarcasm,msa,False,semeval,test
+SENT_002182,وحكاية إنه يكتب البذاءات دي بقت قديمة خالصده أكثر الأفلام إسفافا أرقى من خطب بعض مشايخكم اللي طلعتوهم على منصة دعم كذب الرئيسإلعبوا غيرها,NEG,negative,ASTD,unknown,unknown,ASTD,full
+SENT_009322,يامبرراتي ياللي مش مكسوف من نفسكماكانش حد هيفتح بقه لو رئيسك قال من الأول انا مااشتغلتش مع ناسا مباشرة ولاعمري رحتها كنت في جامعتي بس,NEG,negative,ASTD,unknown,unknown,ASTD,full
+SENT_008145,شاهد - آخر كلام: لماذا مليونية الجمعة 8 يوليو # والد أحد شهداء,POS,positive,ASTD,unknown,unknown,ASTD,full
+SENT_015883,#افضل_طقم_لروجر_فيدررأستراليا 2012مجررررررررم  https://t.co/wcUyd5u2kN,negative,negative,ArSarcasm,egypt,False,semeval,train
+SENT_003924,"بخصوص التحرش #تحرش #حقيقة #بنات يقولون لو تسترت البقره ماتعرضلها الثور ""̮",OBJ,neutral,ASTD,unknown,unknown,ASTD,full
+SENT_018866,اظن ان من افسد شيئا فعليه اصلاحه يجب اعلان الجماعه الاسلاميه والاخوان منظمات ارهابية واصلاح ما افسدو…,negative,negative,ArSarcasm,msa,False,astd,test
+SENT_010331,مصر دولة بس مش أوي #المادة_الأولى,negative,negative,ArSarcasm,egypt,True,astd,train
+SENT_018865,#بروباجندا | #الجيش_السوري يعتزم تحرير #حلب قبل تنصيب «#ترامب»رسمياالتفاصيل على الرابط التالي https://t.co/zQndoda30U,neutral,neutral,ArSarcasm,msa,False,semeval,test
+SENT_012322,للمرة الأولى ميريام فارس تنشر فيديو لطفلها جايدن وتنهال عليها التعليقات...وشاهد زوجها الوسيم وصور زفافها... https://t.co/A110FgzmeU,positive,positive,ArSarcasm,egypt,False,semeval,train
+SENT_010681,RT @RM_News4: فيديو | تصدي رائع من كارفخال على خط المرمى. يتليه تألق الحارس كاسيا في تدريبات ريال مدريد اليوم . https://t.co/GR3YpQ8g5Y,positive,positive,ArSarcasm,msa,False,semeval,train
+SENT_010202,يوم 7/7، يوم هام في مشروع (العلم قوة) وهدفه جذب وتسكين 100 ألف أمي داخل الفصول، في يوم واحد، عن طريق 10 ألاف,positive,positive,ArSarcasm,msa,False,astd,train
+SENT_015033,عجييييييب 😻😻😻😻#MannequinChallenge https://t.co/DSSXytSw99,positive,positive,ArSarcasm,msa,False,semeval,train
+SENT_007150,# تقريبا دي اكتر حاجة قريتها جسدت المذبحة اللي حصلت لاقرب ما يمكن #مذبحة_بورسعيد,NEG,negative,ASTD,unknown,unknown,ASTD,full
+SENT_003266,90 قتيلا من قوات #الأسد بانفجار مبنى غرفة الصناعة في منطقة حلب القديمة ، ما أدى إلى انهياره بالكامل ، وإصابة مبنى شعبة حزب البعث #سوريا,OBJ,neutral,ASTD,unknown,unknown,ASTD,full
+SENT_005504,"مقتل سعيد فضة أكبر مورد بلطجية فى #شبرا_الخيمة وعميل أمن الدولة """,NEG,negative,ASTD,unknown,unknown,ASTD,full
+SENT_009220,اللہم أجعل قلوبنا رقيقہ من خشيٺگ ، جميلہ بذگرڳ ، نقيہ بحبگ ! #مصطفى_حسني,NEG,negative,ASTD,unknown,unknown,ASTD,full
+SENT_016210,@AlameerMeroo94 داعش جانت بنص العراق 😉 والحليم من الإشارة يفهم,neutral,neutral,ArSarcasm,egypt,False,semeval,train
+SENT_007505,تهنئة لكل طالب وطالبة قضوا ما يزيد عن 150 يوماً معتصمين وواجهوا كل انواع التنكيل #جامعة_النيل,POS,positive,ASTD,unknown,unknown,ASTD,full
+SENT_006189,دقائق معدودة بأجر غير محسوب سبحان الله وبحمده سبحان الله العظيم,OBJ,neutral,ASTD,unknown,unknown,ASTD,full
+SENT_019987,اللہم أجعل قلوبنا رقيقہ من خشيٺگ ، جميلہ بذگرڳ ، نقيہ بحبگ ! #مصطفى_حسني,positive,positive,ArSarcasm,msa,False,astd,test
+SENT_011191,دبي تستضيف «برولايت آند ساوند» 31 الجاري——————————-دبي:«الخليج»أعلنت «ميسي فرانكفورت الشرق الأوسط»، عن إطلاق... https://t.co/z0RgVc6iB1,neutral,neutral,ArSarcasm,msa,False,semeval,train
+SENT_003563,قطر #فودافون,OBJ,neutral,ASTD,unknown,unknown,ASTD,full
+SENT_011617,"RT @vabdola: وائل الفخراني: لماذا تركت ""جوجل"" لأنضم إلى ""كريم""؟ | مقال مُترجمhttps://t.co/AAAW0CYEmv",neutral,neutral,ArSarcasm,msa,False,semeval,train
+SENT_000258,افتكرت تعليق علاء الحامولي ع اللي حصل لعادل الأمور في ماتش المنيا زمااااان بس لسه شغال,OBJ,neutral,ASTD,unknown,unknown,ASTD,full
+SENT_012766,@Celebrities_Mag سوري بس وين نوال الزغبي و نجوى كرم كأفضل فنانين؟؟؟؟هني لازم يكونو قبل الكل؟؟,neutral,neutral,ArSarcasm,levant,False,semeval,train
+SENT_002582,من الأمور الهامة لتنمية #الحب بين الزوجين التفاعل مع أزمات شريك #الحياة فلذلك أثر كبير في بناء المودة بين الزوجين وجعلهما أكثر قربًا ومحبة,POS,positive,ASTD,unknown,unknown,ASTD,full
+SENT_001078,أحمد الله العلى القدير على ما شاء وقدر، واشكره سبحانه شكراً جزيلاً على تقديره نجاتى,POS,positive,ASTD,unknown,unknown,ASTD,full
+SENT_014925,القهوة ليست مجرد مشروب ... القهوة أسلوب حياة .إبدأ يومك بقهوة دالماير#Coffeelover #coffeebreak #New_year_eve… https://t.co/Kjs4d432Lz,positive,positive,ArSarcasm,msa,False,semeval,train
+SENT_013559,صورة: كاسياس يحتفل بالانتصار في ديربي مدريد https://t.co/JasRYmGOkb #غزة #فلسطين,positive,positive,ArSarcasm,msa,False,semeval,train
+SENT_016729,تعريص #برهامي ووساخة حزبه والدعوة السفهية بدأوا من يوم ما دعموا #أبو_الفتوح مش حاجة مستجدة !,negative,negative,ArSarcasm,egypt,False,astd,train
+SENT_014927,شكراً لكم من #القلب 😘😍😘😍😘😍 #شاهدين لي #بالخير لا #علي#حب_النصر_يجمعنا #برشلونة #فلسطين 💛💙🇵🇸💙❤#ريان_الغامدي https://t.co/uel770lK6X,positive,positive,ArSarcasm,msa,False,semeval,train
+SENT_015300,"انشرُوا التذكير بالتكبير و أحيُوا سُنّة هذه العشر "" الله أكبر الله أكبر لا إله إلا الله الله أكبر الله أكبر ولله الحمد ""…",positive,positive,ArSarcasm,msa,False,astd,train
+SENT_016852,نصر محروس,neutral,neutral,ArSarcasm,msa,False,astd,train
+SENT_010714,استشهاد جنود مصريين على الحدود بنيران صهيونية جريمة غير مقبولة دماء هؤلاء الشهداء تستدعى موقفا جادا حفاظا على كرامتنا وصيانة لحدودنا,negative,negative,ArSarcasm,msa,False,astd,train
+SENT_016637,احنا اسكندرانية ونعجبوك,positive,positive,ArSarcasm,egypt,False,astd,train
+SENT_016803,فخورة بكِ يا صديقتي، ومعك دائما، حتى وأنتِ تغردين خارج السرب 💕#معرض_الكويت_الدولي_للكتاب#كتاب https://t.co/PeKs0f45tp,positive,positive,ArSarcasm,gulf,False,semeval,train
+SENT_009406,أمي ولك في هذا اليوم دعوه ؛ حفظك الله من كل سوء ياجنتي حفظ الله أمي وأمهاتكم وجميع أمهات المسلمين #عيد_الأم …,POS,positive,ASTD,unknown,unknown,ASTD,full
+SENT_003210,"ندوة توقيع رواية ""نادي السيارات "" بأتيليه الأسكندرية السبت 20 أبريل السابعة مساءً >> التفاصيل >> الأدمن",OBJ,neutral,ASTD,unknown,unknown,ASTD,full
+SENT_018140,"القرآن الكريم مُعَّلق في بيوتنا ولكن لم نشعر أننا هجرناه كما شعرنا أن #الواتساب_معلق ! آخر حالة ظهور للمصحف عند البعض""ر…",negative,negative,ArSarcasm,msa,True,astd,test
+SENT_018330,@Lebanonontime ليس النقض حقا و لكنه الارهاب ! #لافروف اليس سخيفا ملاحقة الارهاب وهو يقيم في #مجلس_الأمن #بدنا_نحاسب #هوا_الحريه #طلعت_ريحتكم,negative,negative,ArSarcasm,msa,False,semeval,test
+SENT_014294,الى كل مشجعي المايسترو روجير فيدرر في شتى بقاع الأرض الي ما صوته إلى الآن رجاءً يصوت له على الرابط في التغريدة السابقة و شكراً ❤️,positive,positive,ArSarcasm,msa,False,semeval,train
+SENT_010187,#أحمد_حلمى يشكر #مهرجان_القاهرة_السينمائى على تكريمه:سأفتخر به طيلة حياتىCBC الراعى الإعلامي الرسمي لمهرجان القاهر… https://t.co/8jI59ED6Tf,positive,positive,ArSarcasm,msa,False,semeval,train
+SENT_016365,#اعرفوهم #انقلاب_مصر #يسقط_حكم_العسكر #الداخلية_بلطجية #الحرية لنور الدين محمود 15سنة #الدقهلية طالب بالثانوي الأزهري,negative,negative,ArSarcasm,msa,True,astd,train
+SENT_002095,الجو هنا ناااااااار فى الصعيد ياريت رتويت قبل الانصهار #جمعية_الاقل_من1000_فولورز,OBJ,neutral,ASTD,unknown,unknown,ASTD,full
+SENT_007623,شبكه اخبار #المحله | متابعات | صورة اخرى من معرض السيارات الذى قام مجهولون باشعال النيران فى السيارات المتواجده,OBJ,neutral,ASTD,unknown,unknown,ASTD,full
+SENT_014809,في نفس المكان، عقدة الراموسة، الذي منه أجبرت آﻻف العائﻻت الحلبية على مغادرة منازلها في أحياء حلب الشرقية باتجاه... https://t.co/pfIr04jsi0,negative,negative,ArSarcasm,msa,False,semeval,train
+SENT_001501,عائلة إماراتية في سوق واقف ومشاعر أخويه غير مستغربه #سحب_السفراء_من_قطر,OBJ,neutral,ASTD,unknown,unknown,ASTD,full
+SENT_017217,عايزه اعمل مجتمع ربعاوى بعيد عن الفلول و اللى عايزهم #فلول # شعب بلا اخلاق #ستحاسبووون,negative,negative,ArSarcasm,egypt,True,astd,train
+SENT_002281,"#اعترافات_الطفولة كنت اصوت حق بشار الشطي من فون ابوي كل ما يطلع نومينيه 😂😂""",OBJ,neutral,ASTD,unknown,unknown,ASTD,full
+SENT_020069,RT @tjshghg: ضربةحرة ضائعة للبرشا والآمال لازالت معلقة بالفوزجوالhttps://t.co/g05NYwvEqUيوتيوبhttps://t.co/g05NYwvEqU#برشلونة_الافيس#…,negative,negative,ArSarcasm,gulf,False,semeval,test
+SENT_014869,الله يبركلك يا دكتور ابو الفتوح #,positive,positive,ArSarcasm,msa,False,astd,train
+SENT_013906,تنمية بشرية - 3 دقائق للتأجيل والمماطلة #ماذا_لو_المدارس_مختلطهxatoildb.thshttps://t.co/WH2pPoi0UX,neutral,neutral,ArSarcasm,msa,False,semeval,train
+SENT_010242,RT @TustarNet: إيران تلوث بيئة الأحواز ، وإصابة ٢٧ الف بالسرطان خلال شهرين -... https://t.co/zZAxt7ILbF,negative,negative,ArSarcasm,msa,False,semeval,train
+SENT_003380,مااحلى شعارك ومدافعك ياقنرررزز #ارسنال,POS,positive,ASTD,unknown,unknown,ASTD,full
+SENT_007199,اللهم ارزقنا نعيم الجنه آمين,POS,positive,ASTD,unknown,unknown,ASTD,full
+SENT_012234,الحمد لله حققنا مستهدف حملة ال21 يوم لمحو الأمية شكرا لشباب صناع الحياة و لكل شركاء الحملة يا رب أعنا على,positive,positive,ArSarcasm,egypt,False,astd,train
+SENT_014494,مقنبعه بين اردوغان و طفل ايران العبادي ههههههههههههههههههههههههههههههههه,negative,negative,ArSarcasm,msa,True,semeval,train
+SENT_003853,عاطف الجوهرى - #إفتكروهم #المجد_للشهداء,OBJ,neutral,ASTD,unknown,unknown,ASTD,full
+SENT_015681,"تكريم ""رامي عياش"" بجامعة الـ LAU في لبنان#ET_بالعربي https://t.co/9Gj3aDFwSL",positive,positive,ArSarcasm,msa,False,semeval,train
+SENT_012716,"#السعاده ان يكون من نحب بخير وعافيه فنحن نشعر بهم ونهتم لامرهم حتى لو لم نراهم 3""",positive,positive,ArSarcasm,msa,False,astd,train
+SENT_001287,كورسيرا أكبر موقع عالمي يحتوى على مناهج جامعات عالمية هي الأفضل في تصنيف 2013! نتعاون معهم لتعريب المناهج، شاركونا! …,POS,positive,ASTD,unknown,unknown,ASTD,full
+SENT_005445,"ودا قمة السفه في الصحافة !! ""الفن بعد ثورة 23 يوليو وبعد ثورة 25 يناير #مصر #الثورة """,NEG,negative,ASTD,unknown,unknown,ASTD,full
+SENT_005875,#كلمة_شكر ل عآدل عبدالله ع البلنتي و الطرد اللي حصله ، اصلاً الطرد احلى 😳😳,POS,positive,ASTD,unknown,unknown,ASTD,full
+SENT_008084,دعبد المنعم ابو الفتوح يتحدث عن ذكرياته لواقعة المشادة الكلامية بينه وبين الرئيس السادات,NEG,negative,ASTD,unknown,unknown,ASTD,full
+SENT_007550,محامي ومستشار قانوني ٠٥٣٧٨٥٥٥٢٧ #المحامي #محامي #قاضي #حكم #درر #الوتر #مستشار #رقم #ريتويت #محاماة #مشاكل #قضايا #اسرية #محامي #مكتب ؟,OBJ,neutral,ASTD,unknown,unknown,ASTD,full
+SENT_014554,#عبد_الفتاح_السيسي @AlsisiOfficial يهني باختيار #جوتيريس سكرتير عام ل #الأمم_المتحدةhttps://t.co/Ff3WNWVwYq… https://t.co/2gns4eH3YS,positive,positive,ArSarcasm,msa,False,semeval,train
+SENT_014800,الارجنتين بدون ميسي مضحكه 😂😂,negative,negative,ArSarcasm,msa,True,semeval,train
+SENT_016567,#المواطن | صور مراحل حمل النجمة #ميريام_فارس,neutral,neutral,ArSarcasm,msa,False,semeval,train
+SENT_000529,السنين الحلوه بتعدى قوام و آنتآ آسمك فى آلتآريخ بالنور مكتوب #أبو_تريكة,POS,positive,ASTD,unknown,unknown,ASTD,full
+SENT_011836,الناشطون السوريون في العالم مشغولون بزواج ريكي مارتن بشاب سوري هل هو حلال أم حرام #حلب,neutral,neutral,ArSarcasm,msa,False,semeval,train
+SENT_019311,@malak_alhusaini احس محد يشوف تغريداتي 😭😭😭 ملاك بايز فوزيني ب ايفون,neutral,neutral,ArSarcasm,gulf,False,semeval,test
+SENT_009750,@mohmad3033 والله مهو كلهم يبو سلطان..الاعلام الغربي يبي يصور لنا ان الشيعة خطر ويبي يصور للشيعة أنفسهم ان السنة خطر عليهم,negative,negative,ArSarcasm,gulf,False,semeval,train
+SENT_010623,زوجة #ابراهيم_حسن ل #٩٠_دقيقة سائق شركة #اوبر تعدي على ابني بمطواه طالبا منه الموبايل فرفض مما ادي الي جروح قطعيه في جسده,negative,negative,ArSarcasm,msa,False,semeval,train
+SENT_015278,تقدم بريطانيا مساعدات منقذة للأرواح لملايين المتضررين من الصراع في #سورية. #الوقوف_مع_حلب https://t.co/SxNY3ELrNN,neutral,neutral,ArSarcasm,msa,False,semeval,train
+SENT_013379,"""#استهداف_النازحين_بحلب"".. جريمة حرب على مرأى ومسمع الجميع، متى يتحرك ضمير #العالم تجاه مأساة #السوريين ؟!!#أنقذوا_حلب#سوريا",negative,negative,ArSarcasm,msa,False,semeval,train
+SENT_015148,@AssalaOfficial تتر فلم فاست فاريوس 8 اغنية جزائرية بصوت جستن بيبر بعد النسخة سابقة دي جي سنايك قاصف جبهة… https://t.co/ytVZDNe1Fx,positive,positive,ArSarcasm,msa,False,semeval,train
+SENT_017389,100 يوم من فشل الانقلاب 200 دولة ترفضه 400 فندق اغلق 800 مصنع افلس 8000 شهيد 20000 معتقل 30000 مصاب 50000 مسجد,negative,negative,ArSarcasm,msa,False,astd,train
+SENT_019348,#ماذا_لو_المدارس_مختلطه أمنيات المنحرفين لن تتحقق ابداً ✋🏻,neutral,neutral,ArSarcasm,msa,False,semeval,test
+SENT_016003,RT @LibanCulture: وفعلها سعد رمضان وتحوّل إلى عريسٍ في ضيعته برجا@Saad_Ramadan https://t.co/N2SGUsAJTC https://t.co/kFsDij28fx,positive,positive,ArSarcasm,egypt,False,semeval,train
+SENT_014186,"فيديو/ الأتراك يتوافدون على معبر ""باب الهوى"" لإستقبال السوريين النازحين وتوزيع المساعدات عليهم https://t.co/iloCdcMTmi",positive,positive,ArSarcasm,msa,False,semeval,train
+SENT_010647,@_iRalbert ايه اقتباس من جستن بيبر الشاذ اةةة,negative,negative,ArSarcasm,egypt,True,semeval,train
+SENT_010074,"المجد لشهداء ""#محمد_محمود"" الذين سالت دماؤهم لتروي شجرة النضال …",negative,negative,ArSarcasm,egypt,False,astd,train
+SENT_016991,RT @FCBW_A7: إيمري كولاك (ديبورتيفو) : أردا توران مثل أخي و هو قدوة بالنسبة لي ، ميسي الأفضل و انا مُعجب به كثيراً,positive,positive,ArSarcasm,msa,False,semeval,train
+SENT_015045,ديميكليس هذا مفترض لا يلعب ، صديق ميسي .موساتشيو ليس مدافع يسار ومايدانا وغاراي افضل،لا اعرف لماذا ميسي مستبعد غاراي.,neutral,neutral,ArSarcasm,msa,False,semeval,train
+SENT_014641,تتعانق الاخوات#حلب#بورما#غروزني#سربرنيتشا#غزةمع اختهم الكبرى #القدس في خدمة المصالح العليا للامة العربية والاسلامية,positive,positive,ArSarcasm,msa,False,semeval,train
+SENT_013092,تطبيق إسلامي رائع حمله أكثر من 10 مليون مسلم !للتحميل #آندرويد:https://t.co/oyWmCx3nROللتحميل #آيفون:https://t.co/DlB0mNn8mp,positive,positive,ArSarcasm,msa,False,semeval,train
+SENT_012147,ڤالنتينو كيوت وناعم. الباقيين ما أخسر فيهم ريال قديم 😳تحديداً غوتشي ! ماهذا يا بيونسيه ؟ https://t.co/szjADT1gmR,negative,negative,ArSarcasm,gulf,False,semeval,train
+SENT_019804,الانقلابي جورج اسحق يشكو من تعسف الانقلاب انت لسه شفت حاجة بكره تبكى بدل الدموع دم وتقول ولا يوم من ايامك يا مرسي,negative,negative,ArSarcasm,egypt,True,astd,test
+SENT_000564,#وسط_البلد رحلة إلى الجحيم ~,OBJ,neutral,ASTD,unknown,unknown,ASTD,full
+SENT_013762,وسائل الإعلام الصينية توجه تحذيرًا صارمًا لترامب #ترامب #الصين https://t.co/RJVNMkiSCj https://t.co/ria7mmh55V,negative,negative,ArSarcasm,msa,False,semeval,train
+SENT_017472,خطاب بوب ديلان إلى الأكاديمية السويدية بعد فوزه بنوبل | ترجمة أمير زكي | المنصة https://t.co/6BccohwlW4,neutral,neutral,ArSarcasm,msa,False,semeval,train
+SENT_005439,مرشحي الرئاسة يقترحون جدولا زمنيا تبدأ في انتخابات البرلمان في 28 نوفمبر 2011 على 3 مراحل ثم تليها انتخابات,OBJ,neutral,ASTD,unknown,unknown,ASTD,full
+SENT_018176,بلجيكا تندد بمصادقة إسرائيل على بناء 98 وحدة بالضفة الغربية https://t.co/dZe9NuP5p5,negative,negative,ArSarcasm,msa,False,semeval,test
+SENT_013117,شكراً :),positive,positive,ArSarcasm,msa,False,astd,train
+SENT_018361,RT @mohamedghorab32: على طريقة الزمالك .. برشلونة 2x2 يستعد لغزو العالم https://t.co/On0zFi19YW,positive,positive,ArSarcasm,msa,False,semeval,test
+SENT_011419,RT @bshaeir3: - دخل ضد تايلاند وتسبب ببلنتي الانتصار .- دخل ضد العراق وانقذ هدف محقق 100٪ .- دخل ضد الامارات و فك المباراة بصاروخية . ي…,neutral,neutral,ArSarcasm,msa,False,semeval,train
+SENT_008990,يتم توليد الطاقة الحديثة من 3 مصادر اساسية #المياة و #الرمال و #الهواء لذلك #أوقفوا_الفحم,OBJ,neutral,ASTD,unknown,unknown,ASTD,full
+SENT_008672,_: #معرض_الكتاب كتاب : المشوق إلى القراءة وطلب العلم لـ الشيخ _,POS,positive,ASTD,unknown,unknown,ASTD,full
+SENT_007107,أثق في رؤيةأحمد سعيد وأعلم التزامه بمبادئه وأنا معجب بتصريحه أن الحزب يستطيع أن يكون حزب الأغلبيةوأتمنى فوزه في الانتخابات لتحقيق تلك الرؤية,POS,positive,ASTD,unknown,unknown,ASTD,full
+SENT_018106,@Celebrities_Mag مـلـكـة الأرقـام #إلـيـسـا,positive,positive,ArSarcasm,msa,False,semeval,train
+SENT_012761,يادين امي ع الحظ يعني أحمد الشيخ مش هيجي يوم الاحد مع المقاصة 😐😠,negative,negative,ArSarcasm,egypt,False,semeval,train
+SENT_007362,#ارسنال #انتقالات,OBJ,neutral,ASTD,unknown,unknown,ASTD,full
+SENT_015991,@MoathDev @Fishisfast_AR معاذ .. اخوي تعامل مع مناوله ويمدحه ياخذون 20 ريال على الطلبيه ويتعاملون مع امازون فقط .. يمكن ينفع لك,positive,positive,ArSarcasm,gulf,False,semeval,train
+SENT_012903,لا ترتبط بفتاة لا تجيد الطبخ فالحب لن يطبخ لك الغدانزار برياني(:😂#معرض_الكويت_الدولي_للكتاب,neutral,neutral,ArSarcasm,msa,False,semeval,train
+SENT_018445,4 متصفحات مميزة لهواتف أندرويد - https://t.co/dLSAi4o8Nk https://t.co/291y4zB4VA,neutral,neutral,ArSarcasm,msa,False,semeval,test
+SENT_012838,#في_حاجة_صح ان الجيش المصرى قوى ومتماسك,positive,positive,ArSarcasm,egypt,False,astd,train
+SENT_016199,@oceanazul80 او ارقام ص😂😂😂😂😂بابا رندفو او انه امثل علينا قدام الكاميرات انه ها شفوني 😂😂😂😂😂والله يا اوباما مخلغين اسنان هي اسوالف 😂😂😂😂😂,negative,negative,ArSarcasm,gulf,True,semeval,train
+SENT_019480,RT @saraalwd3any: @Mohamed__Othaim مررررهكنهم مسرحية خزلبه تافهه!اتوقع ان الانتخابات شكليةاوباما بيخلص رئاسته مافلح بشي!,negative,negative,ArSarcasm,levant,True,semeval,test
+SENT_007750,ما الذي حدث في الإتحادية؟ سرد كامل بالفيديو و الأدلة,OBJ,neutral,ASTD,unknown,unknown,ASTD,full
+SENT_009526,ال ع الشمال ده زييت #باسم_عودة الإرهابي أما ال ع اليمين ده زيت الإستقراااااااااااااااااااارررررررر #هز_ديلك …,NEG,negative,ASTD,unknown,unknown,ASTD,full
+SENT_007339,2009936 129 جميع أرقام #الأهلى #مصر في #دوري_أبطال_أفريقيا من البداية وحتى 2059,OBJ,neutral,ASTD,unknown,unknown,ASTD,full
+SENT_010108,"@NawalElZoghbi - ﺑﻴﻦ گُل "" ﻧِﻔﺲ ﻓﻴّﻨﻲ "" صُوتگگ"" #نوآل_آلزغبي #آغلى_آلحبآيب 💙💗💗😍❤ https://t.co/5eMN7CEmTx",positive,positive,ArSarcasm,egypt,False,semeval,train
+SENT_016928,احمد الشيخ :- ياجدعان بوصولي جمبكو اهو انا اللي جبت الجون https://t.co/bj4G0qtRQ1,neutral,neutral,ArSarcasm,egypt,False,semeval,train
+SENT_014130,هل #الاخوان هم من سرقوا البلد وباعوا مؤسساتها وشركاتها وثرواتها للصهاينة؟هل عقدوا صلحا مع دولة الكيان الصهيوني؟هل خنقوا…,negative,negative,ArSarcasm,msa,True,astd,train
+SENT_007196,شاهدوا في الحلقة 23 من برنامج: عُمر صانع حضارة، كيف كان التراحم الاجتماعي بينه وبين الناس سبباً في إقامة دولة,OBJ,neutral,ASTD,unknown,unknown,ASTD,full
+SENT_010070,@Mohamed85146101 مبروك عليك ويندوز 10 .. ربنا يخلهوللللللك,negative,negative,ArSarcasm,egypt,True,semeval,train
+SENT_003062,مخاوف المسلمين من الاخوان لا تقل عن مخاوف الأقباط ولولا تواطؤ الاخوان مع العسكري لما وصلنا الى هذه الورطة الطائفية قضت عليها الثورة نهائيا,NEG,negative,ASTD,unknown,unknown,ASTD,full
+SENT_009669,ثلاثين يونيو موجة ثورية ضد الفاشل مرسي والجماعة الكذابة ما أرفضه هو القمع والعقاب الجماعي كفاية كذب وخداع للنفس,NEG,negative,ASTD,unknown,unknown,ASTD,full
+SENT_008538,"#ليه بنخاف من الموت و هو الحاجه الحقيقيه في الدنيا !""",POS,positive,ASTD,unknown,unknown,ASTD,full
+SENT_013875,ما اسخف مطاردة الارهاب و هو في مجلس الأمن ! #لافروف,negative,negative,ArSarcasm,msa,True,semeval,train
+SENT_005338,تعرضت لكل هذا من معسكر أخر بعد قانون العزل وواجهته وفندت زيفه أرى نفسي في كتلة ثالثة ليست مع عودة النظام القديم ولا مع هيمنة فصيل واحد,NEG,negative,ASTD,unknown,unknown,ASTD,full
+SENT_006936,#إبراهيم_محلب هايدخل التاريخ وهايحل مشكلة سد النهضة وإبقو إفتكرو إن مدرستى#دى_لاسال قدمت هدية لمصر من أحد خريجيها الناجحين,POS,positive,ASTD,unknown,unknown,ASTD,full
+SENT_008509,هو ممكن ت #نزل_صلاح :( #ليلة_الابطال,NEG,negative,ASTD,unknown,unknown,ASTD,full
+SENT_005180,ضد الظلم مع باسم #ثورة_25_يناير #باسم_رئيسا_لمصر #انتخبوا_العرص,NEUTRAL,neutral,ASTD,unknown,unknown,ASTD,full
+SENT_013849,ريجيني جديد؟ https://t.co/HaGWS4Br8M,neutral,neutral,ArSarcasm,msa,False,semeval,train
+SENT_002999,"المعنى الحقيقي للوطنية المعنى الحقيقي للضحكة الصافية #باسم""",POS,positive,ASTD,unknown,unknown,ASTD,full
+SENT_019792,12 مليون مصرى لم يدفعوا فاتورة الكهرباء الانقلاب ساقط اصبروا وثابروا واحشدوا واهتفوا سلميتنا سلاحنا,negative,negative,ArSarcasm,egypt,False,astd,test
+SENT_003927,#ﻓﻮﻟﻮﺭﺯ_ﺍﺳﻼﻣﻮﻓﻴﺘﺶ_ﺑﻴﻌﻤﻠﻮﺍ_ﻟﺒﻌﺾ_ﻓﻮﻟﻮ #ﻓﻮﻟﻮﺭﺯ_ﻋﻔﺮﻛﻮﺵ_ﺑﻴﻌﻤﻠﻮ_ﻓﻮﻟﻮ_ﻟﺒﻌﺾ #ﺍﻟﻤﺪﺭﻳﺪﺳﺘﺎ_ﺑﻴﻌﻤﻠﻮﺍ_ﻓﻮﻟﻮ_لبعض,OBJ,neutral,ASTD,unknown,unknown,ASTD,full
+SENT_017859,ياسين السويحة، عن عودة الحدود وسياساتها إلى مركز النقاش السياسي في الغرب https://t.co/vcwVwvpuAC#أوروبا #الولايات_المتحدة #دونالد_ترامب,neutral,neutral,ArSarcasm,msa,False,semeval,train
+SENT_010906,انا عندي حنين ما بعرف لمين ..ليلي بيخطفني من بين السهرانين💔#فيروز,positive,positive,ArSarcasm,levant,False,semeval,train
+SENT_012542,شاهد .. مواجهات عنيفة بين #الجيش_السوري والجماعات المسلحة في #الشيخ_سعيد جنوب #حلبhttps://t.co/RaKvhtYXhy https://t.co/C7tLJa8f6u,neutral,neutral,ArSarcasm,msa,False,semeval,train
+SENT_008147,بسمة أمل - هدية لعودة الحب لحياتنا,POS,positive,ASTD,unknown,unknown,ASTD,full
+SENT_007663,ممكن رئيس لسه جايب 51? من الأصوات في الإعادة ضد فل عليه بلاغات ممكن فجأة يلاقي 90? من نفس الشعب مؤيدين لديكتاتوريته؟,NEG,negative,ASTD,unknown,unknown,ASTD,full
+SENT_004510,تفاقم أزمة #أوكرانيا يهدد واردات #القمح إلى الدول العربية,OBJ,neutral,ASTD,unknown,unknown,ASTD,full
+SENT_017937,#اليمن .تعز...الانقلابين والعفشين .جرائم بتعز على المدنبن بلاسلحة الثفيلة اكثرمن مكن واكذكل القناصة لافرق بين... https://t.co/5P1zUGAvUr,neutral,neutral,ArSarcasm,msa,False,semeval,train
+SENT_011205,تجاهل مبارك للفقراء لم يكن نابعا عن إهمال فقط وإنما فلسفة تقوم على احتقار الفقراء لأنهم فشلوا فى الثراء,negative,negative,ArSarcasm,msa,False,astd,train
+SENT_012868,«#الناتو» مطمئن حيال #ترمب وأوباما يودع أوروبا بالاتفاق على التعاون https://t.co/a7H4PIuHHG#عكاظ https://t.co/pE52ybpQCw,neutral,neutral,ArSarcasm,msa,False,semeval,train
+SENT_002063,نرفض تقييد حق الاعتصام وإعطاء سلطات مطلقة للأمن في منع التظاهر والمبالغة في العقوبات وتوسيع حرم منع التظاهر لا للقانون بصيغته الراهنة,NEG,negative,ASTD,unknown,unknown,ASTD,full
+SENT_017429,#أحلام و #عادل_امام و العوكش | قصف منتصف الجبهة | هتموت من #الضحكhttps://t.co/0slN8YHEK1,negative,negative,ArSarcasm,egypt,True,semeval,train
+SENT_014626,اكثر صورة ضحكتني اليووم #ترامب #السعودية #Trump #Santa #Christmas #WhiteChristmas https://t.co/u31F4XTUjz,neutral,neutral,ArSarcasm,egypt,True,semeval,train
+SENT_002376,د أبو الفتوح: أنا مشروعي يمثل كل الوطن لأن الرئيس القادم يجب أن يكون رئيسا لكل المصريين بمختلف مرجعياتهم وافكارهم,OBJ,neutral,ASTD,unknown,unknown,ASTD,full
+SENT_009634,بسمة أمل جديدة مع لذة العطاء,POS,positive,ASTD,unknown,unknown,ASTD,full
+SENT_004273,شاهد - آخر كلام: لم يعد مجدياً أي حديث مع بشار,NEG,negative,ASTD,unknown,unknown,ASTD,full
+SENT_004601,مشاهد من مسرح حكم الفرد الجزء الأول مقال اليوم في الشروق,OBJ,neutral,ASTD,unknown,unknown,ASTD,full
+SENT_014661,#عيد_الأم #امي امي يا اجمل ما يبدأ بهِ يومي فَ سبحان من صنّع من دعواتكِ سعادةٌ لي لا تنتهي,positive,positive,ArSarcasm,msa,False,astd,train
+SENT_012023,باااااااااااااااااطل ياولاد التيت :/ من مسيرة #المطرية #أنا_حازم #مرسي_رئيسي #ياخاين_ياسيسي #حتماً_سنعود,negative,negative,ArSarcasm,egypt,False,astd,train
+SENT_019174,"RT @20fourMedia: #غوغل تُطلق حملة إعلانية ضخمة لهاتفها الجديد بيكسل""https://t.co/QtUma3Pzgh https://t.co/lMqtjEyOPw""",neutral,neutral,ArSarcasm,msa,False,semeval,test

@@ -1,0 +1,4 @@
+﻿model,n_total,n_valid_pairs,original_accuracy,paraphrase_accuracy,original_macro_f1,paraphrase_macro_f1,consistency_rate,flip_rate,invalid_original,invalid_paraphrase
+AraBERT-ArSAS,150,149,0.6174,0.6733,0.6168,0.6672,0.7852,0.2148,1,0
+GPT-OSS-20B via Groq,150,150,0.7333,0.7333,0.7296,0.7276,0.8533,0.1467,0,0
+Gemini 2.5 Flash,150,150,0.6933,0.6733,0.6663,0.6526,0.9067,0.0933,0,0

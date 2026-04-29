@@ -1,0 +1,10 @@
+﻿model,gold_label,n,consistent_count,flip_count,consistency_rate,flip_rate
+AraBERT-ArSAS,negative,49,42,7,0.8571,0.1429
+AraBERT-ArSAS,neutral,50,39,11,0.78,0.22
+AraBERT-ArSAS,positive,50,36,14,0.72,0.28
+GPT-OSS-20B via Groq,negative,50,42,8,0.84,0.16
+GPT-OSS-20B via Groq,neutral,50,42,8,0.84,0.16
+GPT-OSS-20B via Groq,positive,50,44,6,0.88,0.12
+Gemini 2.5 Flash,negative,50,45,5,0.9,0.1
+Gemini 2.5 Flash,neutral,50,45,5,0.9,0.1
+Gemini 2.5 Flash,positive,50,46,4,0.92,0.08

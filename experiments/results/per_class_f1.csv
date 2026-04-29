@@ -1,0 +1,10 @@
+﻿model,label,original_precision,original_recall,original_f1,paraphrase_precision,paraphrase_recall,paraphrase_f1
+AraBERT-ArSAS,positive,0.6818,0.6,0.6383,0.7391,0.68,0.7083
+AraBERT-ArSAS,negative,0.625,0.7143,0.6667,0.6176,0.84,0.7119
+AraBERT-ArSAS,neutral,0.551,0.54,0.5455,0.6944,0.5,0.5814
+GPT-OSS-20B via Groq,positive,0.7049,0.86,0.7748,0.7167,0.86,0.7818
+GPT-OSS-20B via Groq,negative,0.7551,0.74,0.7475,0.75,0.78,0.7647
+GPT-OSS-20B via Groq,neutral,0.75,0.6,0.6667,0.7368,0.56,0.6364
+Gemini 2.5 Flash,positive,0.6769,0.88,0.7652,0.6111,0.88,0.7213
+Gemini 2.5 Flash,negative,0.6615,0.86,0.7478,0.6724,0.78,0.7222
+Gemini 2.5 Flash,neutral,0.85,0.34,0.4857,0.9,0.36,0.5143

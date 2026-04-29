@@ -1,3 +1,5 @@
 data/raw/*/.git/
 __pycache__/
 *.pyc
+.env
+*.env
