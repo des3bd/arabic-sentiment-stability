@@ -1,0 +1,3 @@
+﻿dataset,rows,unique_texts,sentiment_classes,dialect_classes
+ASTD,9694,9689,3,1
+ArSarcasm,10547,10142,3,5

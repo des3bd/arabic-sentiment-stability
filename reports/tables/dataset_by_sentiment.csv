@@ -1,0 +1,7 @@
+﻿dataset,sentiment_unified,count,percentage_within_dataset
+ASTD,negative,1642,16.94
+ASTD,neutral,7275,75.05
+ASTD,positive,777,8.02
+ArSarcasm,negative,3529,33.46
+ArSarcasm,neutral,5340,50.63
+ArSarcasm,positive,1678,15.91
